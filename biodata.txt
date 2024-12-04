@@ -1,0 +1,5 @@
+biodata
+
+nama : Ibrahim Abdullah
+kelas : 4IA20
+npm : 50421621
